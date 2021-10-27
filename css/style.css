@@ -1,0 +1,260 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-BlackItalic.eot');
+    src: url('../webfonts/Lato-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-BlackItalic.woff2') format('woff2'),
+        url('../webfonts/Lato-BlackItalic.woff') format('woff'),
+        url('../webfonts/Lato-BlackItalic.ttf') format('truetype'),
+        url('../webfonts/Lato-BlackItalic.svg#Lato-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-Italic.eot');
+    src: url('../webfonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Italic.woff2') format('woff2'),
+        url('../webfonts/Lato-Italic.woff') format('woff'),
+        url('../webfonts/Lato-Italic.ttf') format('truetype'),
+        url('../webfonts/Lato-Italic.svg#Lato-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-Bold.eot');
+    src: url('../webfonts/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Bold.woff2') format('woff2'),
+        url('../webfonts/Lato-Bold.woff') format('woff'),
+        url('../webfonts/Lato-Bold.ttf') format('truetype'),
+        url('../webfonts/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-Black.eot');
+    src: url('../webfonts/Lato-Black.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Black.woff2') format('woff2'),
+        url('../webfonts/Lato-Black.woff') format('woff'),
+        url('../webfonts/Lato-Black.ttf') format('truetype'),
+        url('../webfonts/Lato-Black.svg#Lato-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-BoldItalic.eot');
+    src: url('../webfonts/Lato-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-BoldItalic.woff2') format('woff2'),
+        url('../webfonts/Lato-BoldItalic.woff') format('woff'),
+        url('../webfonts/Lato-BoldItalic.ttf') format('truetype'),
+        url('../webfonts/Lato-BoldItalic.svg#Lato-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('../webfonts/Lato-Hairline.eot');
+    src: url('../webfonts/Lato-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Hairline.woff2') format('woff2'),
+        url('../webfonts/Lato-Hairline.woff') format('woff'),
+        url('../webfonts/Lato-Hairline.ttf') format('truetype'),
+        url('../webfonts/Lato-Hairline.svg#Lato-Hairline') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-Light.eot');
+    src: url('../webfonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Light.woff2') format('woff2'),
+        url('../webfonts/Lato-Light.woff') format('woff'),
+        url('../webfonts/Lato-Light.ttf') format('truetype'),
+        url('../webfonts/Lato-Light.svg#Lato-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-LightItalic.eot');
+    src: url('../webfonts/Lato-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-LightItalic.woff2') format('woff2'),
+        url('../webfonts/Lato-LightItalic.woff') format('woff'),
+        url('../webfonts/Lato-LightItalic.ttf') format('truetype'),
+        url('../webfonts/Lato-LightItalic.svg#Lato-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../webfonts/Lato-Regular.eot');
+    src: url('../webfonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-Regular.woff2') format('woff2'),
+        url('../webfonts/Lato-Regular.woff') format('woff'),
+        url('../webfonts/Lato-Regular.ttf') format('truetype'),
+        url('../webfonts/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('../webfonts/Lato-HairlineItalic.eot');
+    src: url('../webfonts/Lato-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/Lato-HairlineItalic.woff2') format('woff2'),
+        url('../webfonts/Lato-HairlineItalic.woff') format('woff'),
+        url('../webfonts/Lato-HairlineItalic.ttf') format('truetype'),
+        url('../webfonts/Lato-HairlineItalic.svg#Lato-HairlineItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    outline: none;
+}
+body{
+    margin:0;
+    font-family: 'Lato';
+}
+a{
+    text-decoration: none;
+    color: #444;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1300px;
+    margin:auto;
+    padding: 0 15px;
+}
+.m-0{
+    margin: 0;
+}
+.p-0{
+    padding: 0;
+}
+.position-relative{
+    position: relative;
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.list-style-none{
+    list-style: none;
+}
+.dropdown-currency{
+    display: none;
+}
+.align-items-center{
+    align-items: center;
+}
+.bg-theme{
+    background-color: #0188cc;
+}
+.text-white{
+    color: #fff;
+}
+/* header */
+.inner-top-header{
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+    padding: 10px 0;
+}
+.top-header-menu a{
+    display: block;
+    padding: 0px 12px;
+}
+.currency-selector{
+    border-left:1px solid rgba(255,255,255,0.5);
+    border-right:1px solid rgba(255,255,255,0.5);
+    padding: 0 10px;
+    margin: 0 10px;
+}
+.social-media a{
+    width: 25px;
+    font-size: 14px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    background-color: transparent;
+}
+.social-media a.facebook:hover{
+    background-color: #3b5998 ;
+}
+.social-media a.twitter:hover{
+    background-color: #1DA1F2 ;
+}
+.social-media a.insta:hover{
+    background-color: #8a3ab9 ;
+}
+.inner-middle-header{
+    padding: 10px 0;
+}
+.logo{
+    max-width: 100px;
+}
+.inner-search-wrap{
+    background-color: #fff;
+    border-radius: 35px;
+    overflow: hidden;
+}
+.inner-search-wrap input, .inner-search-wrap select{
+    border:0;
+    padding: 12px 15px;
+    color: #777;
+}
+.inner-search-wrap select{
+    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
+}
+.inner-search-wrap .search-icon{
+    color: #777;
+    padding: 12px 15px;
+}
+.phone-number{
+    font-size:1.3rem;
+    font-weight: 600;
+}
+.call-icon{
+    font-size: 2rem;
+    margin-right: 15px;
+    transform: rotate(90deg);
+}
+.call-icon i{
+    color: #0188cc;
+    text-stroke: 2px #fff;
+    -webkit-text-stroke: 1px #fff;
+}

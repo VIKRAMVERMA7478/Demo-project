@@ -255,6 +255,35 @@ img{
 }
 .call-icon i{
     color: #0188cc;
-    text-stroke: 2px #fff;
     -webkit-text-stroke: 1px #fff;
 }
+.dropdown-currency{
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 80px;
+    top:25px;
+} 
+.dropdown-currency:after{
+    content: '';
+    position: absolute;
+    top:-10px;
+    left:15px;
+    width: 0;
+    height: 0;
+    border:5px solid transparent;
+    border-bottom: 5px solid #fff;
+}
+.dropdown-currency li a{
+    display: block;
+    padding: 5px 8px;
+    border-bottom: 1px solid #ccc;
+}
+.select-currency{
+    padding: 10px 0;
+}
+.select-currency:hover + .dropdown-currency{
+    display: block;
+}
+
+
